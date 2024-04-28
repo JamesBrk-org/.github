@@ -1,4 +1,5 @@
-## Hi there 👋
+# JamesBrk All you need for your businesses digital Endeavours
+## this is the client dashboard, if your not yet on a plan please get in touch
 
 <!--
 
